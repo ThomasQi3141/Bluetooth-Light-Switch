@@ -1,3 +1,4 @@
+//Imports
 #include <Servo.h>
 
 Servo Servo1;
@@ -5,7 +6,7 @@ Servo Servo2;
 
 char Incoming_value = 0;
 
-
+//Initialization
 void setup() {
   Serial.begin(9600);   
   Servo1.attach(13);
