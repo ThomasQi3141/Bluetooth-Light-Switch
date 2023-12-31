@@ -6,7 +6,7 @@ The light switch utilizes two servo motors, which flip the light switch on and o
 
 **Step 1:** Attach the two servos to ports 12 and 13.
 
-**Step 2:** Attach the HC-05 module to the respective ports, TX and RX.
+**Step 2:** Attach the HC-05 module to the TX and RX (or 0 and 1) ports.
 
 **Step 3:** Download the Bluetooth.apk file on Android or create your own program.
 
