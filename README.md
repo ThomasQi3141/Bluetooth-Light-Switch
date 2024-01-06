@@ -1,4 +1,4 @@
-<h2>Bluetooth Light Switc</h2>
+<h2>Bluetooth Light Switch</h2>
 
 A program created for a bluetooth-controlled (via an HC-05 module) wireless light switch built using the Arduino platform. 
 The light switch utilizes two servo motors, which flip the light switch on and off. 
