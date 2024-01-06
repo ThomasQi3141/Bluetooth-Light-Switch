@@ -16,7 +16,7 @@ The light switch utilizes two servo motors, which flip the light switch on and o
 
 **Step 4:** Download and upload the Bluetooth_Servo_Control.ino file to your Arduino using the Arduino IDE.
 
-**Step 5:** Connect your device to the HC-05 module after holding down the reset button. 
+**Step 5:** Connect your device to the HC-05 module after holding down the reset button. <br><br>
 
 
 **Note:** The HC-05 module is currently not compatible with IOS devices due to MFi Licensing issues. 
