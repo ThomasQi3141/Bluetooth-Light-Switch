@@ -3,6 +3,9 @@
 A program created for a bluetooth-controlled (via an HC-05 module) wireless light switch built using the Arduino platform. 
 The light switch utilizes two servo motors, which flip the light switch on and off. 
 
+![IMG_1215](https://github.com/ThomasQi3141/Bluetooth-Light-Switch/assets/131242218/e2940ebc-a3c5-4208-83bf-fe50bae2e2db)
+
+
 ### To Use:
 
 **Step 1:** Attach the two servos to ports 12 and 13.
