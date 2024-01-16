@@ -7,9 +7,9 @@ The light switch utilizes two servo motors, which flip the light switch on and o
 
 
 ### How does this work?
-➡️ The HC-05 module connects to the Android phone via Bluetooth
-➡️ The HC-05 module receives the input, which is then sent to the Arduino UNO
-➡️ The servo motors get activated, which turns the light switch on/off
+➡️ The HC-05 module connects to the Android phone via Bluetooth <br />
+➡️ The HC-05 module receives the input, which is then sent to the Arduino UNO <br />
+➡️ The servo motors get activated, which turns the light switch on/off <br />
 
 ### To Use:
 
