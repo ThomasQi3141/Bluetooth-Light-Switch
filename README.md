@@ -24,4 +24,4 @@ The light switch utilizes two servo motors, which flip the light switch on and o
 **Step 5:** Connect your device to the HC-05 module after holding down the reset button. <br><br>
 
 
-**Note:** The HC-05 module is currently not compatible with IOS devices due to MFi Licensing issues. 
+**Note:** The HC-05 module is currently not compatible with iOS devices due to MFi Licensing issues. 
